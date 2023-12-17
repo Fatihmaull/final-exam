@@ -222,8 +222,35 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+LinkedIn profile milik saya pribadi dengan nama Muhammad Fatih Maulana
+www.linkedin.com/in/fatih-maulana-informatics2023
+list akun informatika yang telah diikuti adalah:
+- Microsoft
+- IBM
+- Cisco
+- Adobe
+- Qualcomm
+- Telkomsel
+- ITB
+- Tokopedia
+- Gojek
+- ID Cloudhost
+- DICODING Indonesia
+- MySkill
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+
+Github page milik saya a/n Fatih Maulana:
+https://github.com/Fatihmaull
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+daftar event dan workshop yang diikuti selama semester ini:
+- goto x AIESEC di Telkom University
+- GDSC Study Club by DISCORD
+- ZOOM meeting dari Kapita Selekta Informatika bertema "Generative AI in Natural Language Processing
+- 
+
+- dan sisanya menyusul
+  
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
