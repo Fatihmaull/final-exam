@@ -17,7 +17,7 @@ Computational thinking dengan demikian bukan sekedar keterampilan pemrograman ko
 Singkat cerita, computational thinking merupakan penerapan pola pikir yang mengidentifikasi masalah dan menyederhanakannya menjadi masalah-masalah inti yang lebih kecil, dan membuat solusi berdasarkan algoritma terstruktur dalam menyelesaikan masalah yang telah terklasifikasi tersebut..
 
 Contohnya:
-Dalam pengerjaan UAS, tentu kita menghadapi banyak tantangan mulaid ari tugas-tugas yang bentrok, hingga kebingungan menyesuaikan waktu dalam mengerjakan tugas-tugas lainnya.
+Dalam pengerjaan UAS, tentu kita menghadapi banyak tantangan mulai dari tugas-tugas yang bentrok, hingga kebingungan menyesuaikan waktu dalam mengerjakan tugas-tugas lainnya.
 
 Cara menyelesaikan masalah dengan metode “computational thinking” menurut saya yaitu:
 -	Mengidentifikasi tugas-tugas dan persiapan apa saja yang diperlukan didalam minggu ini
