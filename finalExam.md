@@ -2,31 +2,31 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
-   Berpikir komputasional adalah kerangka berpikir kompleks yang mencakup berbagai keterampilan kognitif yang penting untuk memecahkan masalah secara efisien dan efektif.
-   Konsep ini melibatkan pemikiran analitis, pengorganisasian data, dan penerapan konsep komputasi untuk merancang solusi yang bisa diterapkan.
-   Selain itu, pemikiran komputasi juga mencakup pemodelan masalah, pengembangan algoritma, dan analisis kompleksitas solusi.
-   Salah satu aspek utama didalam computational thinking adalah kemampuan  memahami dan memecah masalah menjadi komponen-komponen lebih kecil yang  dapat diselesaikan secara individual, sehingga memudahkan kita dalam mencapai solusi masalah tersebut dengan langkah yang terstruktur sedikit demi sedikit.
-   Dalam konteks ini, penggunaan abstraksi merupakan keterampilan penting untuk menyederhanakan aspek-aspek tertentu dari suatu masalah tanpa kehilangan esensinya.
-   Misalnya, saat kita sedang merencanakan rute perjalanan, kita dapat mengabstraksi peta dengan menyederhanakannya menjadi rute utama dan tempat menarik yang penting.
+Berpikir komputasional adalah kerangka berpikir kompleks yang mencakup berbagai keterampilan kognitif yang penting untuk memecahkan masalah secara efisien dan efektif.
+Konsep ini melibatkan pemikiran analitis, pengorganisasian data, dan penerapan konsep komputasi untuk merancang solusi yang bisa diterapkan.
+Selain itu, pemikiran komputasi juga mencakup pemodelan masalah, pengembangan algoritma, dan analisis kompleksitas solusi.
+Salah satu aspek utama didalam computational thinking adalah kemampuan  memahami dan memecah masalah menjadi komponen-komponen lebih kecil yang  dapat diselesaikan secara individual, sehingga memudahkan kita dalam mencapai solusi masalah tersebut dengan langkah yang terstruktur sedikit demi sedikit.
+Dalam konteks ini, penggunaan abstraksi merupakan keterampilan penting untuk menyederhanakan aspek-aspek tertentu dari suatu masalah tanpa kehilangan esensinya.
+Misalnya, saat kita sedang merencanakan rute perjalanan, kita dapat mengabstraksi peta dengan menyederhanakannya menjadi rute utama dan tempat menarik yang penting.
 Menerapkan algoritma atau prosedur terstruktur untuk menyelesaikan masalah adalah elemen penting lainnya dalam pemikiran komputasi.
-   Hal ini melibatkan pembuatan langkah-langkah dan instruksi yang jelas dan terorganisir untuk mencapai tujuan tertentu.
-   Dalam konteks perencanaan rute, algoritme dapat mencakup langkah-langkah seperti mengidentifikasi rute potensial, menghitung perkiraan waktu, dan menyesuaikan rute berdasarkan kondisi lalu lintas dan hambatan lainnya.
-   Saat merancang solusi, Anda juga harus mempertimbangkan kompleksitas solusi, seperti waktu eksekusi dan konsumsi sumber daya.
-   Dalam pemikiran komputasi yang matang, perbandingan dan analisis kompleksitas merupakan aspek penting untuk memilih solusi yang paling efisien.
-   Computational thinking dengan demikian bukan sekedar keterampilan pemrograman komputer, tetapi suatu paradigma berpikir yang dapat diterapkan pada semua disiplin ilmu untuk memecahkan masalah dengan pendekatan yang terstruktur, analitis dan efisien.
-   Singkat cerita, computational thinking merupakan penerapan pola pikir yang mengidentifikasi masalah dan menyederhanakannya menjadi masalah-masalah inti yang lebih kecil, dan membuat solusi berdasarkan algoritma terstruktur dalam menyelesaikan masalah yang telah terklasifikasi tersebut..
+Hal ini melibatkan pembuatan langkah-langkah dan instruksi yang jelas dan terorganisir untuk mencapai tujuan tertentu.
+Dalam konteks perencanaan rute, algoritme dapat mencakup langkah-langkah seperti mengidentifikasi rute potensial, menghitung perkiraan waktu, dan menyesuaikan rute berdasarkan kondisi lalu lintas dan hambatan lainnya.
+Saat merancang solusi, Anda juga harus mempertimbangkan kompleksitas solusi, seperti waktu eksekusi dan konsumsi sumber daya.
+Dalam pemikiran komputasi yang matang, perbandingan dan analisis kompleksitas merupakan aspek penting untuk memilih solusi yang paling efisien.
+Computational thinking dengan demikian bukan sekedar keterampilan pemrograman komputer, tetapi suatu paradigma berpikir yang dapat diterapkan pada semua disiplin ilmu untuk memecahkan masalah dengan pendekatan yang terstruktur, analitis dan efisien.
+Singkat cerita, computational thinking merupakan penerapan pola pikir yang mengidentifikasi masalah dan menyederhanakannya menjadi masalah-masalah inti yang lebih kecil, dan membuat solusi berdasarkan algoritma terstruktur dalam menyelesaikan masalah yang telah terklasifikasi tersebut..
 
 Contohnya:
-   Dalam pengerjaan UAS, tentu kita menghadapi banyak tantangan mulaid ari tugas-tugas yang bentrok, hingga kebingungan menyesuaikan waktu dalam mengerjakan tugas-tugas lainnya.
+Dalam pengerjaan UAS, tentu kita menghadapi banyak tantangan mulaid ari tugas-tugas yang bentrok, hingga kebingungan menyesuaikan waktu dalam mengerjakan tugas-tugas lainnya.
 
 Cara menyelesaikan masalah dengan metode “computational thinking” menurut saya yaitu:
-1-	Mengidentifikasi tugas-tugas dan persiapan apa saja yang diperlukan didalam minggu ini
-2-	Mengurutkan hal-hal mana yang menjadi prioritas berdasarkan:
+-	Mengidentifikasi tugas-tugas dan persiapan apa saja yang diperlukan didalam minggu ini
+-	Mengurutkan hal-hal mana yang menjadi prioritas berdasarkan:
 a.	Deadline
 b.	Matkul tersusah
 c.	Waktu pengerjaan 
-3-	Menentukan prioritas persiapan atau tugas mana yang dikerjakan terlebih dahulu
-4-	Menyelesaikan pekerjaan mulai dari ranking prioritas yang telah ditentukan sebelumnya
+-	Menentukan prioritas persiapan atau tugas mana yang dikerjakan terlebih dahulu
+-	Menyelesaikan pekerjaan mulai dari ranking prioritas yang telah ditentukan sebelumnya
 
 Seperti itulah cara singkat dalam menentukan solusi problematika UAS yang dihadapi oleh mahasiswa di minggu-minggu akhir ini dengan menggunakan metode computational thinking menurut pemahaman saya pribadi.
 
