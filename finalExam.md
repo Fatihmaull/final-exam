@@ -45,6 +45,13 @@ Mesin Komputasi memiliki banyak jenis diantaranya:
 
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+akun google colab pribadi:
+dengan email alfatihmaulana2005@gmail.com
+
+- eksplorasi sistem notebook google colab
+  ![Screenshot (63)](https://github.com/Fatihmaull/final-exam/assets/144407751/63542a18-3460-474a-9882-b302e2f2f686)
+- penggunaan notebook google colab sebagai sarana pemahaman library AI Text-to-Speech
+  ![Screenshot (64)](https://github.com/Fatihmaull/final-exam/assets/144407751/8b12a1ee-33d6-4e93-824f-f5ea5c5ec015)
 
 
 ## Mencoba Console Sistem Operasi
