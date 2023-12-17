@@ -220,6 +220,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+penggunaan duolingo sebagai sarana pembelajaran bahasa asing (menambah wawasan bahasa inggris)
+- login kembali duolingo
+  ![Screenshot (65)](https://github.com/Fatihmaull/final-exam/assets/144407751/626dc912-2c03-4320-b5cb-bd0cba5ff76e)
+- melatih dan mengasah kembali kemampuan berbahasa inggris
+  ![Screenshot (66)](https://github.com/Fatihmaull/final-exam/assets/144407751/b8072605-9858-485c-8743-3d69f9ca8375)
+- list bahasa-bahasa asing yang dipelajari
+  ![Screenshot (67)](https://github.com/Fatihmaull/final-exam/assets/144407751/551d2f62-fde6-4dba-94cc-cb48a4037b9a)
+  
+
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
