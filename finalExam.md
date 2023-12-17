@@ -32,9 +32,20 @@ Seperti itulah cara singkat dalam menentukan solusi problematika UAS yang dihada
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+Mesin Komputasi merupakan gabungan hardware yang saling bekerjasama menyelesaikan tugas-tugas komputasional yang diberikan oleh software sebagai logika mesin komputasi tersebut. kedua elemen saling bekerjasama menyelesaikan hitungan-hitungan yang diinput oleh user (manusia) yang berupa algoritma dan komputasi.
 
+Mesin Komputasi memiliki banyak jenis diantaranya:
+- 1. Mainframe: adalah komputer utama yang memiliki kapasitas processor yang tinggi dan kemampuan yang dirancang untuk perhitungan/komputasi yang besar dan kompleks seperti pengelolaan database, aplikasi perusahaan besar, proses transaksi didalam bisnis, dan lainnya
+- 2. PC atau Personal Computers: adalah komputer pribadi untuk individu yang memiliki ukuran relatif keciln dengan harga terjangkau dan memiliki interface aplikasi pengguna yang mutakhir (OS seperti windows, linux, dan MacOs)
+- 3. Supercomputers: mesin komputasi tercanggih yang dirancang untuk perhitungan ilmiah dan teknikal yang sangat kompleks dengan processor yang mutakhir (cepat dan high-end), dan biaya yang mahal. termasuk disini quantum computer.
+- 4. Server: adalah mesin komputasi yang dirancang untuk memberikan layanan atau sumber daya ke komputer lain dalam jaringan. Mereka dapat digunakan untuk menyimpan dan menyediakan data, mengelola basis data, atau menyediakan layanan web.
+- 5. Embedded Systems: merupakan komputer yang tertanam di dalam sistem sebuah perangkat. berfungsi sebagai otak dari perangkat tersebut. biasanya embedded computer jarang bisa dikode ulang alias sudah tetap seperti didalam sistem kalkulator.
+- 6. Microcontroller: adalah komputer kecil yang portable seperti arduino atau raspberry pi. memiliki fungsi seperti PC pada umumnya dengan kapasitas computing yang lebih kecil.
+- 7. Workstations: yang merupakan komputer rancangan khusus untuk tugas desain, rekayasa, ilustrasi, dan editing dengan grafis yang kuat sebagai support system utamanya. tidak berbeda jauh dengan PC, namun workstation ini ditujukan untuk kerja yang lebih spesifik.
 
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
+
 
 ## Mencoba Console Sistem Operasi
 
@@ -94,8 +105,20 @@ demonstrasi penggunaan HackerRank dapat disimak dan digambarkan melalui prosedur
 
 Platform seperti Hackerrank berguna untuk meningkatkan keterampilan pemrograman, melatih pemecahan masalah, dan mempersiapkan seseorang untuk wawancara pekerjaan di bidang teknologi.
 
+ Demonstrasi pengunaan HackerRank oleh pribadi:
+ - penyelesaian soal challenge preparation Java
+   ![Screenshot (59)](https://github.com/Fatihmaull/final-exam/assets/144407751/9a8fc771-776a-4f61-9e33-678a40291a4f)
+ - pengerjaan soal challenge algorithm di tahap warm up (berdasarkan syntax Java)
+   ![Screenshot (60)](https://github.com/Fatihmaull/final-exam/assets/144407751/64fd5fbf-41fb-456f-b4e8-26dff9ffff70)
+ - pengerjaan soal job preparation (problem solving dengan bahasa python)
+   ![Screenshot (61)](https://github.com/Fatihmaull/final-exam/assets/144407751/8ed139ed-f39c-4b35-a470-48f3cba99981)
+   ![Screenshot (62)](https://github.com/Fatihmaull/final-exam/assets/144407751/3561d8c0-5722-49a3-ae97-66a6d80e5375)
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
+   (masukin tugas UTS Pengenalan Informatika)
+   (APP: LOKALII)
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
