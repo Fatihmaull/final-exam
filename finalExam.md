@@ -1,4 +1,4 @@
-# Hello Informatics !
+![Screenshot (33)](https://github.com/Fatihmaull/final-exam/assets/144407751/7917264c-3066-41aa-b98f-34e6f7ece4e0)![Screenshot (58)](https://github.com/Fatihmaull/final-exam/assets/144407751/f13a8ab1-47f8-4d0c-b208-d3c75583c93f)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
@@ -59,16 +59,41 @@ Referensi [1](https://scratch.mit.edu/)
    Penggunaan IDE merupakan salah satu basic skill seorang programmer yang harusnya sudah berada diluar kepalanya. Karena IDE sendiri memiliki beberapa benefit besar yang dapat dimanfaatkan dan sangat membantu bagi seorang programmer yang mana pekerjaannya adalah menulis kode.
    IDE, atau Integrated Development Environment, adalah suatu perangkat lunak yang menyediakan berbagai alat dan fitur untuk memudahkan pengembangan perangkat lunak. IDE biasanya mencakup editor kode sumber, compiler atau interpreter, debugger, dan seringkali alat bantu lain seperti manajer proyek, pengatur versi, dan pembuat antarmuka pengguna.
    IDE yang selama ini telah saya coba dan demonstrasikan yaitu:
-   1- Visual Studio dari Microsoft
-   2- Android Studio (dalam pengembangan aplikasi mobile)
-   3- Visual Studio Code sebagai text editor dalam banyak project dan tugas-tugas dari dosen 
+   - Visual Studio dari Microsoft
+   - Android Studio (dalam pengembangan aplikasi mobile)
+   - Visual Studio Code sebagai text editor dalam banyak project dan tugas-tugas dari dosen 
 
    Demonstrasi:
-   
-   
-   
+   - pemanfaatan IDE Android Studio (dalam membuat emulator mobile android sebagai acuan kode UI UX aplikasi LOKALII)
+     ![Screenshot (56)](https://github.com/Fatihmaull/final-exam/assets/144407751/5667ba16-6068-48a8-a5c8-f0f51d872a06)
+   - penggunaan visual studio sebagai salah satu ketentuan IDE Flutter
+   - penggunaan visual studio code sebagai code editor
+     ![Screenshot (57)](https://github.com/Fatihmaull/final-exam/assets/144407751/40ff75f4-2c7e-42d8-9622-8f5aa76e9615)
+   - penggabungan antara emulator dari IDE Android Studio dengan Code editor VSCode
+     ![Screenshot (58)](https://github.com/Fatihmaull/final-exam/assets/144407751/099e3272-e171-4412-9670-57cc4fa12cab)
+   - penggunaan IDE VSCode dalam pengerjaan program beli susu sederhana matkul praktikum dasar pemrograman
+     ![Screenshot (32)](https://github.com/Fatihmaull/final-exam/assets/144407751/70571b61-1c4d-4397-9dc6-5f5d29ca5c2d)
+   - hasil output dari latihan for loop dengan VSCode menggunakan bahasa Java
+     ![Screenshot (33)](https://github.com/Fatihmaull/final-exam/assets/144407751/0650fd4b-3715-4aa7-8ba5-07622b449f2a)
+   - hasil output latihan for loop VSCode dengan bahasa Java (Bintang bersusun)
+     ![Screenshot (34)](https://github.com/Fatihmaull/final-exam/assets/144407751/64d3485a-567c-4126-9946-acddb57af0ab)
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+
+HackerRank merupakan sebuah online platform yang ditujukan sebagai sarana belajar coding dan programming, dengan dasar-dasar computer science yang diperkuat juga
+- berisi challenge challenge yang harus kita selesaikan
+- setiap challenge nya mengasah kemampuan berpikir kita sebagai seorang programmer
+  
+demonstrasi penggunaan HackerRank dapat disimak dan digambarkan melalui prosedur dibawah:
+- Pendaftaran: Pengguna mendaftar dan membuat akun di Hackerrank.
+- Pemilihan tantangan: Setelah mendaftar, pengguna dapat memilih tantangan atau latihan pemrograman yang sesuai dengan tingkat keterampilan mereka dan bahasa pemrograman yang ingin digunakan.
+- Pemrograman Solusi: Pengguna menulis solusi kode sumber untuk menyelesaikan tantangan atau latihan tersebut. Mereka dapat menggunakan bahasa pemrograman seperti Python, Java, C++, dll.
+- Pengujian Otomatis: Setelah menulis solusi, pengguna dapat menjalankan solusi mereka melalui sistem pengujian otomatis Hackerrank. Sistem ini akan menguji solusi terhadap sejumlah kasus uji yang telah ditentukan.
+- Pemberian Skor dan feedback: Hackerrank memberikan skor berdasarkan keberhasilan solusi pengguna. Pengguna juga bisa melihat feedback dan solusi optimal dari Hackerrank.
+- Pertandingan dan Kompetisi: Selain tantangan harian atau latihan, Hackerrank juga menyelenggarakan pertandingan dan kompetisi pemrograman secara berkala yang memungkinkan pengguna bersaing satu sama lain.
+
+Platform seperti Hackerrank berguna untuk meningkatkan keterampilan pemrograman, melatih pemecahan masalah, dan mempersiapkan seseorang untuk wawancara pekerjaan di bidang teknologi.
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
