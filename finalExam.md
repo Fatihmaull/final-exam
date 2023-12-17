@@ -1,4 +1,4 @@
-# Hello Informatics !
+![Screenshot (79)](https://github.com/Fatihmaull/final-exam/assets/144407751/4825ca6d-12f5-4932-a056-3aae231fa3eb)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
@@ -182,6 +182,16 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+blog pribadi dengan Content Management System dengan situs web WordPress
+- akun wordpress https://fatihmaulanamail.wordpress.com/
+- terhitung tanggal 15/12 terdapat 3 artikel yang telah di post mengenai kesenian, makna hidup dan manusia dengan teknologinya
+editor site WordPress
+- editor content utama
+  ![Screenshot (68)](https://github.com/Fatihmaull/final-exam/assets/144407751/2040e382-4e9c-4907-8446-e7d7cd5f8dbf)
+- editor tampilan web
+  ![Screenshot (69)](https://github.com/Fatihmaull/final-exam/assets/144407751/edbd2937-d4c5-489f-a499-7edea4718c0d)
+
+
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
@@ -192,7 +202,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+- TensorFlow
+- Microsoft Azure AI vision
+- ChatGPT
+
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+
+- Microsoft BING AI
+- DALL-E GPT
+- Midjourney
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -202,9 +220,43 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+Huggingface merupakan platform untuk mengeksplorasi beragam model AI, sejauh yang saya telah eksplor
+- https://huggingface.co/fatihMaull
+
+Mencoba demonstrasi pembuatan file untuk model AI
+- ![Screenshot (71)](https://github.com/Fatihmaull/final-exam/assets/144407751/751b4906-064a-42b0-8caf-1705441d7dd8)
+Mencoba mengeksplor model model AI (conversational)
+- ![Screenshot (76)](https://github.com/Fatihmaull/final-exam/assets/144407751/c5a680d8-4a8a-4763-9696-9d59e99d176b)
+Mecoba menggunakan API model AI conversational sebagai dasar training model
+- ![Screenshot (77)](https://github.com/Fatihmaull/final-exam/assets/144407751/8836150c-2335-4f5c-bf92-df065f15b62f)
+
+
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
+Kaggle merupakan platform tempat kita "compete and Learning" tentang Machine Learning, dengan bahasa dasar utama yang digunakan yaitu python
+- akun kaggle https://www.kaggle.com/fatihmaull
+Demonstrasi pembuatan dan login akun kaggle
+- ![Screenshot (79)](https://github.com/Fatihmaull/final-exam/assets/144407751/4873c495-0252-4c28-be78-20f7ffbbeffb)
+Daftar percobaan dan competition via Kaggle
+- ![Screenshot (80)](https://github.com/Fatihmaull/final-exam/assets/144407751/379ed254-9c71-419a-abad-bd13fa922a56)
+NLP (natural language processing)
+- ![Screenshot (81)](https://github.com/Fatihmaull/final-exam/assets/144407751/9988f0fa-1f3d-4212-aeef-ff73f2e08f9e)
+latihan arithmetic menggunakan pyhton dasar
+- ![Screenshot (84)](https://github.com/Fatihmaull/final-exam/assets/144407751/d4ca53fd-797e-48a3-9121-cd769628bf53)
+
+
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+
+Protokol komunikasi IoT MyMQTT adalah salah satu protokol yang digunakan dalam Internet of Things (IoT) untuk memungkinkan perangkat IoT berkomunikasi satu sama lain. MyMQTT adalah implementasi protokol MQTT (Message Queuing Telemetry Transport) yang merupakan protokol lightweight dan berbasis publish-subscribe. maksudnya kita harus subscribe ke suatu channel yang ada di port yang telah ditentukan agar dapat berkomunikasi antar pernagkat satu sama lain 
+Dalam konteks MyMQTT, perangkat IoT dapat berperan sebagai pengirim atau penerima pesan. Mereka dapat mempublikasikan pesan ke topik tertentu atau berlangganan ke topik untuk menerima pesan. Protokol ini dirancang untuk efisiensi, kehandalan, dan keamanan dalam komunikasi antarperangkat IoT.
+Jadi, secara umum, MyMQTT memfasilitasi pertukaran data yang efisien antarperangkat IoT melalui model publish-subscribe, di mana perangkat dapat mengirim dan menerima pesan pada topik-topik tertentu.
+
+Penggunaan MyMQTT telah dilaksanakan di kelas matkul Pengenalan Informatika, yang di inisiasi oleh pak Insan Al-Amin
+- Tampilan Interface MyMQTT
+  ![MQTT !](https://github.com/Fatihmaull/final-exam/assets/144407751/b56698b7-71be-47df-bb66-de49ee58afdb)
+  ![WhatsApp Image 2023-12-18 at 05 33 51_f6de1397](https://github.com/Fatihmaull/final-exam/assets/144407751/54b4dea7-03ef-4f76-86fe-7ffd65247611)
+  ![WhatsApp Image 2023-12-18 at 05 33 52_c61fd77f](https://github.com/Fatihmaull/final-exam/assets/144407751/feab2218-1b88-4fd6-a1d0-d8c272f8c14c)
+  
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -217,6 +269,17 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+
+Profesi IT yang diminati berdasarkan passion dan tujuan hidup ke depannya:
+- DevOps
+- Project Manager
+- Data Analyst
+- CyberSecurity Engineer
+- Penetration Tester
+- Fullstack Software Developer
+- Database Specialist
+- UI UX Designer specialist
+- Business Analyst
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
@@ -269,7 +332,6 @@ daftar event dan workshop yang diikuti selama semester ini:
 - GDSC Study Club by DISCORD
 - ZOOM meeting dari Kapita Selekta Informatika bertema "Generative AI in Natural Language Processing
 - 
-
 - dan sisanya menyusul
   
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
