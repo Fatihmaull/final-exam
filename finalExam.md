@@ -1,4 +1,4 @@
-![Screenshot (92)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/930ca3a8-14b9-493d-82d6-377bd024222f)# Hello Informatics !
+# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
