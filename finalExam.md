@@ -269,6 +269,15 @@ Penggunaan MyMQTT telah dilaksanakan di kelas matkul Pengenalan Informatika, yan
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+presentasi tugas-tugas akhir informatika, diambil dari channel luar negeri agar memperluas wawasan dan memperdalam bahasa inggris juga:
+- Acquisisi citra gambar, scanning gambar untuk membuat software seperti paint, tapi hanya berdasarkan pada scannning kamera terhadap poin pena    kita (dimana di program ini adalah jari kita)
+  ![Screenshot (97)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/1f0a82a4-008b-4c88-8cf4-d243379a99ba)
+- project aplikasi berbasis bahasa MatLab 
+  ![Screenshot (99)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/d18142c7-bc54-4385-9a15-c1a2415ab52a)
+- penjelasan mengenai project akhir keinformatikaan dari MIT (kelas algoritma MIT OpenCourseWare)
+  ![Screenshot (100)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/e7bf8e14-356c-4448-ba93-80e33331338c)
+
+
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 Profesi IT yang diminati berdasarkan passion dan tujuan hidup ke depannya:
@@ -297,9 +306,46 @@ penggunaan duolingo sebagai sarana pembelajaran bahasa asing (menambah wawasan b
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+banyak lowongan yang tersebar di internet, mulai dari junior developer, hingga senior analyst. Namun kebanyakan dari lowongan tersebut membutuhkan requirement yang belum memadai dengan skill saya saat ini seperti minimal s1 atau sarjana ke-informatikaan, usia, dan harus kerja fulltime.
+- di aplikasi glints
+  ![Screenshot (105)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/f36e2e15-f68a-48b9-9796-ae95742d40c4)
 
+- di aplikasi JobStreet
+  ![Screenshot (101)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/e0e8b842-d6d2-4385-9601-33014c0fb8e3)
 
+  ![Screenshot (103)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/f68cb565-6b8b-4c01-a340-2a1fd5c8d479)
+
+  ![Screenshot (104)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/c0f1bc59-159d-444f-845d-fc514fc25dc2)
+
+ dan sekarang saya akan mengeksplorasi lagi pekerjaan-pekrjaan yang bisa dilakukan dengan remote dari lowongan freelance
+
+ 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+
+freelance mungkin lebih cocok dengan keadaaan mahasiswa sekarang yang tidak dapat melaksanakan fulltime job karena kesibukan masing-masing. freelance rata-rata banyak yang dapat dilakukan secara remote, part-time, dan dibayat per project atau perjam instead of bekerja 9-5 dan digaji di akhir bulan. namun freelance memiliki tantangan terbesar nya yaitu mencari klien dan memuaskan klient dari hasil kerja kita.
+
+website freelance Fiverr, freelancer.co.id, projects.id, website-website jual foto seperti shutterstock, istock, freepik premium, envanto elements, dan lainnya
+
+- eksplorasi Fiverr
+- login dan aktivasi kembali akun
+  ![Screenshot (107)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/2269bd66-91e7-4af5-bc0b-095ec090fc78)
+
+  
+- eksplorasi kategori
+  ![Screenshot (106)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/4c341b88-0e6b-41f2-90bb-588ebc57092e)
+  
+  ![Screenshot (108)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/fdf20d3f-078d-4bda-8156-01cdd7d40d79)
+
+  
+- eksplorasi freelance.co.id
+  ![Screenshot (112)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/1d98755d-4792-478c-9f31-d65bc607a3cf)
+
+  ![Screenshot (109)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/6242f682-46e3-47dc-8f28-03b046debf1e)
+  
+  ![Screenshot (110)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/73c327b8-4a55-4203-be67-32c3488bf165)
+
+  ![Screenshot (111)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/04cc20a7-0b4e-40d5-9356-22dd4401abf0)
+
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
