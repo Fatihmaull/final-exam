@@ -1,4 +1,4 @@
-# Hello Informatics !
+![Screenshot (92)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/930ca3a8-14b9-493d-82d6-377bd024222f)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
@@ -253,6 +253,7 @@ Jadi, secara umum, MyMQTT memfasilitasi pertukaran data yang efisien antarperang
 
 Penggunaan MyMQTT telah dilaksanakan di kelas matkul Pengenalan Informatika, yang di inisiasi oleh pak Insan Al-Amin
 - Tampilan Interface MyMQTT
+  
   ![MQTT !](https://github.com/Fatihmaull/final-exam/assets/144407751/b56698b7-71be-47df-bb66-de49ee58afdb)
   ![WhatsApp Image 2023-12-18 at 05 33 51_f6de1397](https://github.com/Fatihmaull/final-exam/assets/144407751/54b4dea7-03ef-4f76-86fe-7ffd65247611)
   ![WhatsApp Image 2023-12-18 at 05 33 52_c61fd77f](https://github.com/Fatihmaull/final-exam/assets/144407751/feab2218-1b88-4fd6-a1d0-d8c272f8c14c)
@@ -296,9 +297,31 @@ penggunaan duolingo sebagai sarana pembelajaran bahasa asing (menambah wawasan b
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+
+
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+
+login menggunakan akun github @fatihmaull
+
+Roadmap tuhh semacam online resource yang dapat kita gunakan sebagai pemandu dalam langkah langkah pembelajaran di dalam dunia IT khususnya. Roadmap.sh biasanya menawarkan visualisasi yang jelas tentang langkah-langkah yang diperlukan untuk mencapai tingkat keahlian tertentu dalam suatu bidang. yang mana bisa menjadi sumber daya yang sangat berguna bagi mereka yang ingin merencanakan dan mengikuti jalur pengembangan keterampilan teknis kita.
+
+topik yang diminati di roadmap.sh
+1. Cybersecurity expert
+   ![Screenshot (88)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/984d3565-54dc-4abf-9324-88d73295e40f)
+   ![Screenshot (90)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/b4727312-a76a-4c83-bfc7-89fece1f20d4)
+
+2. DevOps
+   ![Screenshot (95)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/8ee23042-0fad-4dfe-b8f0-90b8bb0141cc)
+   ![Screenshot (94)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/54a843c6-e16e-456e-92a4-66bda1f18641)
+
+3. Full Stack developer
+   ![Screenshot (92)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/59bce245-2899-45f4-b6d7-2c1818cf32be)
+
+4. Blockchain developer
+   ![Screenshot (93)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/172ba076-4af6-41a7-a77a-a959b05b0f3c)
+
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
