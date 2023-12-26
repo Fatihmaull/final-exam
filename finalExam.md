@@ -1,4 +1,4 @@
-![Screenshot (175)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/d6aabc55-6fcd-45e4-9f5c-eeaf5c6521b8)
+
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
@@ -683,6 +683,8 @@ terdapat profile github yang tertera didalam file readme.md yang dibuat mengguna
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+
+
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 Eksplorasi Web API dengan Postman API dimulai dengan pembuatan akun
@@ -1109,6 +1111,8 @@ demonstrasi penggunaan dan pengolahan file CSV dengan google colab menggunakan b
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
+
+
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 DIjelaskan dalam postingan WordPress
@@ -1167,6 +1171,8 @@ penggunaan duolingo sebagai sarana pembelajaran bahasa asing (menambah wawasan b
   
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+
+
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
@@ -1277,16 +1283,48 @@ https://github.com/Fatihmaull
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 daftar event dan workshop yang diikuti selama semester ini:
+
 - goto x AIESEC di Telkom University
   ![goto aiesec 2](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/03860f36-1a44-4e60-9e84-21eae5c16058)
 
-- GDSC Study Club by DISCORD
-  
+- GDSC Study Club by GOOGLE
+
+  ![WhatsApp Image 2023-12-27 at 01 13 36_aaffcf3a](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/f581fa67-5160-4f8b-a693-c01a70d04e98)
+
   
 - ZOOM meeting dari Kapita Selekta Informatika bertema "Generative AI in Natural Language Processing
-  
-  
-- dan sisanya menyusul
+
+  ![WhatsApp Image 2023-12-27 at 01 11 25_ed2bb390](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/2be57022-5ae7-4ad3-a3fd-09fc7a956a41)
+
+    
+- Course Codingstudio yang berisi:
+  - Fundamental Network
+ 
+    ![Screenshot (215)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/a1cad52c-27ee-4485-a4ed-62d024cc7e89)
+
+
+  - Fundamental cybersecurity
+
+    ![Screenshot (214)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/dccdf8ce-d97a-4225-a16c-471aba4c16be)
+
+
+  - Fundamental Penetration testing
+
+    ![Screenshot (212)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/1970cc67-c2fe-41b6-a50f-b426ba350b44)
+
+  - Kali Linux
+ 
+    ![Screenshot (216)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/56159c8e-9b02-4c04-a47b-b4c0bbbc771e)
+
+
+  - Fundamental Algoritma
+ 
+    ![Screenshot (218)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/64c6b5dd-3e51-4141-add8-5500db753e61)
+
+  - Akun member Codingstudio
+    
+    ![Screenshot (212)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/c65a4e0b-9a68-43d6-a429-5a60676bcb60)
+
   
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
