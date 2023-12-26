@@ -81,12 +81,234 @@ Contoh console: WINDOWS CMD, LINUX TERMINAL, MacOS COMMAND SHELL
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
+CMD merupakan command prompt yang mana adalah nama dari console OS WINDOWS. CMD dapat digunakan sesuai dengan keinginan user melalui kode-kode dibawah ini, yang disebut dengan command line:
+1. **`dir`:**
+   - Menampilkan daftar file dan folder dalam direktori saat ini.
+
+2. **`cd`:**
+   - Mengubah direktori atau pindah ke direktori tertentu.
+
+3. **`copy`:**
+   - Menyalin file dari satu lokasi ke lokasi lain.
+
+4. **`del` atau `erase`:**
+   - Menghapus satu atau beberapa file.
+
+5. **`mkdir` atau `md`:**
+   - Membuat direktori baru.
+
+6. **`rmdir` atau `rd`:**
+   - Menghapus direktori (harus kosong).
+
+7. **`echo`:**
+   - Menampilkan teks atau mengaktifkan atau menonaktifkan fitur echo.
+
+8. **`type`:**
+   - Menampilkan isi file teks.
+
+9. **`rename` atau `ren`:**
+   - Mengganti nama file atau direktori.
+
+10. **`cls`:**
+    - Membersihkan layar konsol.
+
+11. **`ipconfig`:**
+    - Menampilkan informasi konfigurasi IP, seperti alamat IP dan gateway.
+
+12. **`ping`:**
+    - Mengirim paket data ke alamat IP atau nama domain untuk menguji koneksi jaringan.
+
+13. **`tracert` atau `traceroute`:**
+    - Melacak rute paket melalui jaringan.
+
+14. **`netstat`:**
+    - Menampilkan statistik dan informasi koneksi jaringan.
+
+15. **`tasklist`:**
+    - Menampilkan daftar proses yang sedang berjalan.
+
+16. **`taskkill`:**
+    - Menutup atau mengakhiri proses yang sedang berjalan.
+
+17. **`shutdown`:**
+    - Mematikan atau me-restart komputer.
+
+18. **`systeminfo`:**
+    - Menampilkan informasi konfigurasi sistem.
+
+19. **`sfc` (System File Checker):**
+    - Memeriksa dan memperbaiki file sistem yang rusak.
+
+20. **`chkdsk`:**
+    - Memeriksa dan memperbaiki kesalahan pada disk.
+
+21. **`format`:**
+    - Menghapus semua data pada drive dan memformatnya.
+
+22. **`xcopy`:**
+    - Menyalin file dan direktori dengan lebih banyak opsi daripada `copy`.
+
+23. **`find`:**
+    - Mencari teks dalam file.
+
+24. **`attrib`:**
+    - Mengubah atribut file atau folder.
+
+25. **`gpupdate`:**
+    - Memperbarui kebijakan grup pada sistem.
+
+26. **`net`:**
+    - Mengelola sumber daya jaringan, pengguna, dan grup.
+
+27. **`shutdown`:**
+    - Menjadwalkan atau membatalkan shutdown.
+
+28. **`sc` (Service Control):**
+    - Mengelola layanan Windows.
+
+29. **`assoc`:**
+    - Menampilkan atau mengubah asosiasi ekstensi file.
+
+30. **`fsutil`:**
+    - Mengelola berbagai aspek file system.
+
+31. **`cipher`:**
+    - Mengenkripsi atau mendekripsi file dan folder.
+
+32. **`reg`:**
+    - Mengelola registri Windows.
+
+33. **`bcdedit`:**
+    - Mengedit konfigurasi boot.
+
+34. **`hostname`:**
+    - Menampilkan atau mengatur nama komputer.
+
+35. **`date`:**
+    - Menampilkan atau mengatur tanggal sistem.
+
+36. **`time`:**
+    - Menampilkan atau mengatur waktu sistem.
+
+37. **`gpedit.msc`:**
+    - Membuka Editor Kebijakan Grup.
+
+38. **`msconfig`:**
+    - Membuka Utilitas Konfigurasi Sistem.
+
+39. **`taskmgr`:**
+    - Membuka Manajer Tugas.
+
+40. **`mmc` (Microsoft Management Console):**
+    - Membuka konsol manajemen dengan snap-ins yang dapat disesuaikan.
+
+41. **`wmic` (Windows Management Instrumentation Command-line):**
+    - Menyediakan antarmuka untuk mengakses informasi manajemen dan konfigurasi Windows.
+
+42. **`powercfg`:**
+    - Mengelola pengaturan daya dan energi.
+
+43. **`takeown`:**
+    - Mengambil kepemilikan file atau direktori.
+
+44. **`icacls`:**
+    - Mengonfigurasi hak akses berbasis list kontrol akses (ACL).
+
+45. **`task scheduler`:**
+    - Mengelola tugas yang dijadwalkan.
+
+46. **`subst`:**
+    - Menetapkan jalur subst atau menghapus penggantian.
+
+47. **`netsh`:**
+    - Konfigurasi dan diagnosa jaringan.
+
+48. **`driverquery`:**
+    - Menampilkan daftar driver perangkat yang diinstal pada sistem.
+
+49. **`mode`:**
+    - Mengkonfigurasi perangkat sistem.
+
+50. **`shutdown`:**
+    - Mematikan atau me-restart komputer.
+
+contoh penggunaan command cmd dapat dilihat pada gambar-gambar dibawah ini:
+
+- 
+![Screenshot (150)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/73fb9c9a-fa26-4066-aab6-8e4fe81a9d22)
+
+![Screenshot (151)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/f9f0e3ab-4f33-4060-9ad7-dd49bf705c4d)
+
+![Screenshot (152)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/022ae22f-74f6-43bb-99b2-c40fe68ee550)
+
+![Screenshot (153)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/bf7a885e-a04e-456e-91e5-3d3cb4865869)
+
+![Screenshot (154)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/cac8c5a9-7cae-46f7-808e-40c0eb3256f0)
+
+dapat dilihat beberapa command yang dituliskan diatas yaitu:
+- md (membuat direktori baru dalam sistem)
+- cd (merubah direktori/berpindah direktori)
+- color (merubah warna teks)
+- date (memperlihatkan dan merubah tanggal)
+- time (memperlihatkan waktu dan merubah waktu)
+- hostname (memperlihatkan nama komputer)
+- dir (memperlihatkan direktori yang ada didalam file
+- ping (mengecek internet)
+- systeminfo (memperlihatkan detail informasi dari sistem)
+
+dan masih banyak command line dengan fungsi yang beragam lainnya di CMD
+
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
+Linux Terminal dikenal sebagai Command Line Interface (CLI) atau shell, adalah interface berbasis teks yang memungkinkan user berinteraksi dengan sistem operasi Linux melalui baris perintah. Terminal Linux memungkinkan pengguna untuk menjalankan perintah teks dan mengakses berbagai fitur pekerjaan sistem serta menjalankan skrip dan program. (bersumber dari artikel dan ChatGPT)
+
+karakteristik dan konsep terkait dengan Terminal Linux:
+1. Shell:
+   - Terminal Linux menjalankan sebuah shell, yang bertanggung jawab untuk menafsirkan dan menjalankan perintah yang dimasukkan oleh pengguna. Beberapa shell umum di Linux antara lain Bash (Bourne Again SHell), Zsh (Z Shell), dan Fish.
+
+2. Baris Perintah:
+   - Pengguna memasukkan perintah teks ke dalam terminal, dan sistem merespons dengan hasil eksekusi perintah tersebut. Baris perintah sering kali dimulai dengan prompt yang menunjukkan lokasi direktori saat ini, nama pengguna, dan sejenisnya.
+
+3. Direktori Kerja (Working Directory):
+   - Terminal selalu bekerja dalam suatu direktori tertentu pada suatu waktu. Pengguna dapat berpindah antar direktori menggunakan perintah `cd`.
+
+4. Perintah dan Argumen:
+   - Perintah diikuti oleh argumen dan opsi yang menentukan tindakan yang harus diambil oleh perintah tersebut. Misalnya, `ls` untuk menampilkan daftar file di direktori, dan `ls -l` untuk menampilkan daftar file dengan informasi lebih detail.
+
+5. Redirection dan Pipelines:
+   - Pengguna dapat mengarahkan output dari suatu perintah ke file atau perintah lain menggunakan operator seperti `>` atau `|` (pipa).
+
+6. Perintah Berbasis Teks:
+   - Terminal memungkinkan pengguna untuk melakukan berbagai tugas, seperti mengelola file, mengonfigurasi sistem, menjalankan skrip, dan banyak lagi. Sebagian besar perintah Linux bersifat teks dan dapat dipanggil melalui terminal.
+
+7. Perintah Awal dan Aliases:
+   - Pengguna dapat membuat perintah awal (shell script) dan mengonfigurasi alias untuk membuat perintah yang lebih kompleks atau mempersingkat perintah tertentu.
+
+Terminal Linux adalah alat yang kuat dan fleksibel yang sering digunakan oleh pengguna tingkat lanjut dan administrator sistem untuk menjalankan tugas-tugas yang tidak dapat dilakukan dengan antarmuka grafis. Ini juga merupakan cara yang efisien untuk mengelola dan menjelajahi sistem operasi Linux.
+Karena fleksibilitasnya, linux juga sering digunakan sebagai OS yang dapat menjelajahi lebih dalam seluk beluk dari suatu program, dan kemampuan mengulik yang lebih fleksibel dikarenakan sistem open-source nya.
+
+contoh penggunaan Linux terminal dengan Google Colab
+- ingat dalam menggunakan command linux di Google Colab harus disertakan dengan tanda seru (!) diawal command yang kita tuliskan, sehingga perintah dapat dieksekusi.
+  ![Screenshot (155)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/940c7fcd-bea5-4ebe-926b-a7f756a66699)
+
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+
+Algoritma dalam flowchart. adalah suatu jalan berpikir yang nantinya akan dieksekusi oleh mesin komputasi, seperti kode-kode yang berurutan.
+seorang programmer harus dapat menentukan jalannya logic aplikasi, dan flowchart inilah yang akan memandu mereka selama proses development program agar tidak tersesat dalam pembuatan fitur dan fungsi lainnya yang misalnya saling bertubrukan, dan tidak bingung mana method yang harus terlebih dahulu di jalankan.
+
+contoh penggunaan flowchart dalam mendesain program adalah:
+- penggunaan flowchart pada desain program untuk TUBES UAS DASPRO
+
+![flowchart](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/4f6e6978-37b9-4d32-a2b2-3b7df4bd0859)
+
+- penggunaan flowchart pada desain program UTS Pengenalan Informatika untuk aplikasi LOKALII
+
+![Screenshot (157)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/edeaad2f-4672-40b0-bbac-d539d0c17681)
+
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
@@ -289,8 +511,8 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - dimana kita nanti dapat mengupload dan melihat foto yang telah kita simpan didalam web tersebut
 
 - Demonstrasi
-  
- Uploading menampilkan html (1).mp4…
+
+https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/7b09c16f-1e1b-4a38-854e-ea6d3f3d1d14
 
 
 - HTML (Hypertext Markup Language) dirancang khusus untuk ditampilkan di web browser. Ada beberapa alasan mengapa HTML harus ditampilkan di browser: (diambil dari artikel)
@@ -384,10 +606,156 @@ terdapat profile github yang tertera didalam file readme.md yang dibuat mengguna
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
+Developer Tools adalah serangkaian fitur dan fungsi yang terintegrasi dalam browser Google Chrome yang memungkinkan pengembang web menganalisis, memeriksa, dan mengoptimalkan situs web. Fitur ini memudahkan pengembang untuk memahami cara halaman web berinteraksi dengan browser, memeriksa performa, men-debug kode JavaScript, dan banyak lagi.(diambil dari artikel)
+
+Berikut adalah langkah-langkah umum untuk membuka dan menggunakan Developer Tools di Google Chrome:
+
+1. **Buka Google Chrome:**
+   - Pastikan Anda telah menginstal dan membuka browser Google Chrome di komputer Anda.
+
+2. **Buka Developer Tools:**
+   - Ada beberapa cara untuk membuka Developer Tools:
+     - Klik kanan pada elemen halaman web dan pilih "Inspect" atau "Inspect Element" dari menu konteks.
+     - Tekan `Ctrl + Shift + I` (Windows/Linux) atau `Cmd + Opt + I` (Mac) pada keyboard.
+     - Pilih menu "View" di pojok kanan atas, pilih "Developer", dan kemudian pilih "Developer Tools".
+
+3. **Tab Developer Tools:**
+   - Developer Tools terdiri dari beberapa tab, yang masing-masing menyediakan fungsionalitas berbeda. Beberapa tab umum termasuk:
+     - **Elements:** Memungkinkan Anda menginspeksi dan memanipulasi DOM (Document Object Model) dari halaman web.
+     - **Console:** Menampilkan pesan log, kesalahan JavaScript, dan memungkinkan Anda menjalankan perintah JavaScript.
+     - **Sources:** Memungkinkan Anda menjelajahi dan mem-debug kode JavaScript serta menetapkan breakpoint.
+     - **Network:** Menampilkan permintaan jaringan dan respon, membantu menganalisis performa halaman web.
+     - **Application:** Menyediakan informasi tentang cache, storage, dan pengaturan aplikasi web.
+     - **Performance:** Memungkinkan Anda merekam dan menganalisis performa halaman web.
+
+4. **Menganalisis dan Memeriksa:**
+   - Gunakan Developer Tools untuk menganalisis elemen halaman web, mengidentifikasi masalah, dan memeriksa network requests, cookies, dan lainnya.
+
+5. **Men-debug Kode JavaScript:**
+   - Gunakan tab "Sources" untuk men-debug kode JavaScript, menetapkan breakpoint, dan melihat variabel dan nilai eksekusi.
+
+6. **Mengukur Performa:**
+   - Gunakan tab "Performance" untuk merekam dan menganalisis performa halaman web, mengidentifikasi area yang memerlukan perbaikan.
+
+7. **Menggunakan Extension dan Theme:**
+   - Developer Tools juga mendukung ekstensi dan tema, yang dapat diinstal untuk menambahkan fungsionalitas tambahan atau mengubah tata letak.
+
+Developer Tools di Google Chrome sangat kuat dan berguna untuk pengembangan web. Penggunaannya bervariasi tergantung pada tugas tertentu yang sedang Anda lakukan, mulai dari inspeksi elemen hingga pemecahan masalah performa dan debugging JavaScript.
+
+Demonstrasi penggunaan developer tools di browser Google Chrome
+- melihat file HTML
+
+![Screenshot (158)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/4295b351-076f-4910-b552-55f5f1b7811f)
+  
+- melihat file-file yang dibuka didalam halaman web
+
+![Screenshot (159)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/3a1b07a6-f0bc-42b7-b5c4-9aaea55f4bc3)
+
+- mengukur performa browser mulai dari network, render, hingga efektifitas sistem
+
+![Screenshot (160)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/7a098b37-edcd-43df-ad40-9d85a1975e12)
+
+- melihat info aplikasi web yang sednag digunakan dan mengganti tema dev tools
+
+![Screenshot (161)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/57d5348f-a955-4c0f-8c80-a2b6bcb7eb3c)
+
+itulah beberapa fungsi devtools dari chrome, yang nanti akan dieksplore lebih lanjut kedepannya sesuai dengan tingkat demand pekerjaan dan bidang yang akan saya geluti.
+
+
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+
+Layanan cloud mengacu pada layanan dan sumber daya komputasi yang disediakan melalui internet. Ini termasuk penyediaan akses ke infrastruktur komputasi, penyimpanan data, serta platform dan aplikasi perangkat lunak tanpa memerlukan pemeliharaan fisik oleh pengguna. Layanan cloud memungkinkan pengguna untuk menyewa sumber daya komputasi dan menggunakan berbagai layanan tanpa perlu memiliki atau mengelola infrastruktur secara langsung.
+
+Beberapa fitur umum dari layanan cloud termasuk:
+
+1. **Infrastruktur sebagai Layanan (Infrastructure as a Service/IaaS):**
+   - Menyediakan akses virtual ke sumber daya komputasi dasar seperti server virtual, jaringan, dan penyimpanan. Pengguna dapat mengelola dan mengonfigurasi sumber daya ini sesuai kebutuhan.
+
+2. **Platform sebagai Layanan (Platform as a Service/PaaS):**
+   - Menyediakan platform pengembangan dan penjalanan aplikasi. PaaS menyediakan lingkungan yang telah dikonfigurasi untuk mendukung pengembangan dan penjalanan aplikasi tanpa harus memikirkan tentang konfigurasi infrastruktur.
+
+3. **Perangkat Lunak sebagai Layanan (Software as a Service/SaaS):**
+   - Menyediakan aplikasi perangkat lunak yang dapat diakses melalui internet tanpa perlu menginstal atau memelihara perangkat lunak di perangkat lokal. Contoh termasuk aplikasi email cloud, suite produktivitas, dan manajemen pelanggan.
+
+4. **Komputasi Edge:**
+   - Memberikan sumber daya komputasi yang ditempatkan lebih dekat dengan lokasi pengguna atau perangkat akhir. Ini membantu meningkatkan kinerja dan respons waktu dengan mengurangi latensi.
+
+5. **Fungsi sebagai Layanan (Function as a Service/FaaS):**
+   - Memungkinkan pengembang untuk menyematkan fungsi ke dalam aplikasi tanpa harus mengelola infrastruktur. Fungsi ini dijalankan secara otomatis sebagai tanggapan terhadap peristiwa tertentu.
+
+6. **Database sebagai Layanan (Database as a Service/DBaaS):**
+   - Menyediakan akses ke layanan database tanpa perlu mengelola konfigurasi fisik atau administrasi database. Ini mencakup penyimpanan data, penanganan kueri, dan manajemen basis data.
+
+Keuntungan layanan cloud meliputi:
+
+- **Skalabilitas:** Pengguna dapat dengan mudah menyesuaikan sumber daya sesuai dengan kebutuhan bisnis mereka.
+- **Efisiensi Biaya:** Menghilangkan kebutuhan untuk memiliki dan memelihara infrastruktur fisik dapat mengurangi biaya modal dan operasional.
+- **Akses Global:** Layanan cloud dapat diakses dari berbagai lokasi di seluruh dunia melalui internet.
+- **Pemeliharaan dan Pembaruan Otomatis:** Penyedia cloud bertanggung jawab atas pemeliharaan dan pembaruan infrastruktur, mengurangi beban tugas administratif bagi pengguna.
+- **Elastisitas:** Pengguna dapat dengan cepat menyesuaikan sumber daya sesuai dengan beban kerja yang berubah.
+
+Contoh penyedia layanan cloud termasuk Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), dan Alibaba Cloud. akan tetapi saya memilih layanan AWS untuk diteliti dan dieksplor.
+
+Layanan CLoud AWS membutuhkan akun berbayar untuk masuk, jadi disini saya mengumpulkan rangkuman dari beberapa artikel dan dirangkum oleh bantuan AI sebagai penjelasannya:
+
+Amazon Web Services (AWS) adalah platform layanan cloud yang disediakan oleh Amazon. AWS menawarkan berbagai layanan komputasi, penyimpanan, basis data, analisis, kecerdasan buatan, Internet of Things (IoT), keamanan, dan banyak lagi. Ini memungkinkan organisasi dan individu untuk menyewa sumber daya komputasi dan layanan infrastruktur tanpa perlu memiliki dan memelihara perangkat keras fisik.
+
+Beberapa komponen utama AWS meliputi:
+
+1. **Komputasi:**
+   - **Amazon Elastic Compute Cloud (EC2):** Layanan penyewaan server virtual untuk menjalankan aplikasi.
+   - **AWS Lambda:** Layanan komputasi tanpa server yang memungkinkan eksekusi kode berdasarkan permintaan atau peristiwa tertentu.
+
+2. **Penyimpanan:**
+   - **Amazon Simple Storage Service (S3):** Layanan penyimpanan objek yang dapat diakses melalui internet.
+   - **Amazon Elastic Block Store (EBS):** Penyimpanan blok berkinerja tinggi untuk instance EC2.
+
+3. **Basis Data:**
+   - **Amazon Relational Database Service (RDS):** Layanan basis data relasional yang mendukung MySQL, PostgreSQL, Oracle, SQL Server, dan database MariaDB.
+   - **Amazon DynamoDB:** Layanan basis data NoSQL yang dapat diskalakan dan dikelola dengan mudah.
+
+4. **Jaringan dan Konten Livestream:**
+   - **Amazon Virtual Private Cloud (VPC):** Layanan jaringan yang memungkinkan pengguna membuat jaringan virtual yang terisolasi.
+   - **Amazon CloudFront:** Layanan pengiriman konten dan jaringan pengiriman konten (CDN).
+
+5. **Analisis dan Kecerdasan Buatan:**
+   - **Amazon Redshift:** Layanan penyimpanan data dan analisis data dengan skala besar.
+   - **Amazon Kinesis:** Layanan untuk mengumpulkan, memproses, dan menganalisis aliran data secara waktu nyata.
+   - **Amazon Machine Learning:** Layanan yang memungkinkan pembuatan model kecerdasan buatan tanpa harus menjadi ahli data.
+
+6. **Keamanan dan Identitas:**
+   - **AWS Identity and Access Management (IAM):** Layanan manajemen identitas dan hak akses.
+   - **Amazon GuardDuty:** Layanan keamanan yang memberikan deteksi ancaman berbasis kecerdasan buatan.
+
+7. **Internet of Things (IoT):**
+   - **AWS IoT:** Layanan untuk menghubungkan perangkat IoT dan mengelola data mereka.
+
+8. **Alat Pengembangan:**
+   - **AWS CodeDeploy:** Layanan untuk merilis dan mengelola aplikasi di berbagai lingkungan.
+   - **AWS CodePipeline:** Layanan otomatisasi pengiriman dan pelepasan kontinu.
+
+AWS menawarkan model pembayaran berbasis penggunaan, di mana pengguna hanya membayar untuk sumber daya dan layanan yang mereka konsumsi. Fleksibilitas dan skalabilitas AWS membuatnya populer di kalangan perusahaan kecil hingga besar yang mencari solusi cloud computing untuk mendukung bisnis dan aplikasi mereka. AWS juga merupakan salah satu cloud service paling terkenal yang ada di masa kini
+
+dapart dilihat bahwa AWS juga menawarkan banyak jenis produk yang akan sangat bermanfaat disetiap bidang, favorit saya adalah quantum technologies yang berkonsep pada sistem blockchain
+
+- pembuatan akun dengan syarat kartu kredit
+![Screenshot (162)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/fe0a933e-6c70-4a74-90a1-86e4598941b5)
+
+![Screenshot (163)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/bff9cb22-14e5-45e1-ab8f-80668bdb7790)
+
+- tawaran AWS dan interface web awalnya
+![Screenshot (164)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/5f4d0d58-1fdd-4faf-84b4-419b6fc05147)
+
+- tawaran produk security oleh AWS
+  ![Screenshot (165)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/74141529-3cdd-4cb3-9490-916570c58c31)
+
+- tawaran produk quantum technologies oleh AWS
+  ![Screenshot (166)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/eac384d0-72c2-4021-b928-aa6a956417dc)
+
+Eksplorasi konsep AWS akan diteruskan kedepannya dikarenakan cloud computing yang akan sangat berguna dalam bidang keilmuan informatika
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
@@ -580,6 +948,22 @@ topik yang diminati di roadmap.sh
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
+mengambil referensi dari artikel https://open-data-analytics.medium.com/top-10-best-open-source-projects-on-github-2023-784bf4df2a94 , saya mulai memiliki ketertarikan untuk menngulik dan mencoba project-project dengan konsep data analytics.
+seperti machine learning menggunakan python.
+
+- project TopDeepLearning
+  https://github.com/aymericdamien/TopDeepLearning
+
+  - project tensorflow
+    https://github.com/tensorflow/tensorflow
+
+  - project face swap
+    https://github.com/deepfakes/faceswap
+
+  - project termux
+    https://github.com/termux/termux-app
+
+
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 LinkedIn profile milik saya pribadi dengan nama Muhammad Fatih Maulana
@@ -607,9 +991,49 @@ https://github.com/Fatihmaull
 
 daftar event dan workshop yang diikuti selama semester ini:
 - goto x AIESEC di Telkom University
+  ![goto aiesec 2](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/03860f36-1a44-4e60-9e84-21eae5c16058)
+
 - GDSC Study Club by DISCORD
+  
+  
 - ZOOM meeting dari Kapita Selekta Informatika bertema "Generative AI in Natural Language Processing
-- 
+  
+  
 - dan sisanya menyusul
   
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+Buku bertema informatika yang dibaca yaitu "The Art of Computer Programming"
+"The Art of Computer Programming" oleh Donald E. Knuth adalah seri buku klasik yang mencakup dasar-dasar ilmu komputer, algoritma, dan struktur data. Berikut adalah ringkasan singkat dan poin utamanya:
+
+1. **Pendekatan Terstruktur:**
+   - Buku ini memandang pemrograman sebagai seni dan mengajukan pendekatan terstruktur dalam mengembangkan algoritma dan program.
+
+2. **Algoritma dan Struktur Data:**
+   - Menyajikan konsep dasar dalam ilmu komputer, dengan penekanan pada pengembangan algoritma dan struktur data yang efisien.
+
+3. **Analisis Algoritma:**
+   - Memberikan metodologi untuk menganalisis kinerja algoritma, termasuk kompleksitas waktu dan ruang, serta teknik analisis matematika yang mendalam.
+
+4. **Bahasa Pemrograman:**
+   - Buku ini tidak berkutat pada bahasa pemrograman tertentu, melainkan fokus pada prinsip-prinsip dasar yang dapat diterapkan dalam berbagai bahasa.
+
+5. **Pola Desain:**
+   - Menyajikan pola desain dalam algoritma dan struktur data, yang dapat digunakan sebagai panduan untuk merancang solusi masalah umum.
+
+6. **Kombinatorial Algorithms:**
+   - Mendalam ke dalam algoritma kombinatorial, yang melibatkan pengaturan, kombinasi, permutasi, dan topik matematika terkait.
+
+7. **Machine Models:**
+   - Memperkenalkan model mesin komputer dan model matematika untuk menganalisis algoritma.
+
+8. **Metode Numerik:**
+   - Menjelaskan metode numerik dan komputasi angka dengan ketelitian tertentu.
+
+9. **Bahasa Mesin dan Pengkodean:**
+   - Membahas pengkodean mesin, representasi data, dan bahasa assembly, serta relevansinya dalam pengembangan algoritma.
+
+10. **Filsafat dan Etika Pemrograman:**
+    - Menyertakan pemikiran filsafat dan etika dalam dunia pemrograman, mengajak pembaca untuk memahami arti sebenarnya dari "seni pemrograman."
+
+"The Art of Computer Programming" oleh Donald E. Knuth adalah karya monumental yang memberikan fondasi yang kokoh bagi para pemrogram dan ilmuwan komputer. Meskipun detail dan matematis, buku ini memiliki nilai yang luar biasa dalam memahami dasar-dasar ilmu komputer dan pemrograman.
