@@ -1,4 +1,4 @@
-
+![Screenshot (175)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/d6aabc55-6fcd-45e4-9f5c-eeaf5c6521b8)
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
@@ -467,6 +467,9 @@ Platform seperti Hackerrank berguna untuk meningkatkan keterampilan pemrograman,
 
    (masukin tugas UTS Pengenalan Informatika)
    (APP: LOKALII)
+   link github repository: https://github.com/Fatihmaull/lokalii
+   SLDC dan semua background aplikasi ada di https://github.com/Fatihmaull/lokalii/blob/main/job-interview.md
+   
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
@@ -494,13 +497,22 @@ Kenapa MySQL?
 
 MySQL juga mendukung banyak fitur penting seperti indeks, transaksi, dan keamanan yang dapat diandalkan. Keberlanjutan dan dukungan komunitas yang besar juga merupakan keuntungan, karena banyak pengembang yang berkontribusi pada pengembangan dan pemeliharaan MySQL.
 
+
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
+
+
+- tampilan dalam MySQL
+  ![Screenshot (193)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/bdb5e7fd-43d2-4eb9-b2c3-9f6b73957d35)
+
+  ![Screenshot (194)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/9d926134-95d8-4b25-a24d-f8de47e54c42)
+
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
@@ -541,9 +553,55 @@ Jadi, HTML dan browser bekerja sama untuk memberikan pengalaman pengguna yang ka
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
+dijelaskan didalam blog WordPress
+Maulana's Mind:
+https://fatihmaulanamail.wordpress.com/2023/12/26/uniform-resource-locator/
+
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+
+Pelacakan informasi server dari alamat domain dapat dilakukan dengan menggunakan berbagai alat dan metode. Beberapa cara umum untuk melacak informasi server termasuk:
+
+- Whois Lookup:
+   - Whois adalah layanan yang menyediakan informasi terkait kepemilikan dan registrasi nama domain. Anda dapat menggunakan situs web atau alat Whois untuk mencari informasi seperti nama pemilik domain, informasi kontak, dan informasi registrar. Banyak penyedia domain juga menyediakan layanan Whois mereka sendiri.
+
+- Command-line Tools:
+   - Dalam lingkungan command-line, Anda dapat menggunakan perintah seperti `nslookup` atau `dig` untuk mendapatkan informasi DNS dari suatu domain. Misalnya:
+     ```bash
+     nslookup example.com
+     ```
+     atau
+     ```bash
+     dig example.com
+     ```
+
+- Online Tools dan Situs Web:
+   - Ada banyak situs web dan alat online yang memungkinkan Anda untuk melakukan pelacakan informasi server dari alamat domain. Contoh termasuk "Whois Lookup" di situs web ICANN atau layanan-layanan serupa.
+
+- DNS Lookup:
+   - Dengan melakukan DNS lookup, Anda dapat mengetahui informasi seperti alamat IP yang terkait dengan domain tersebut. Perintah `nslookup` atau `dig` juga dapat digunakan untuk melakukan DNS lookup.
+
+- Traceroute atau Tracepath:
+   - Alat ini membantu melacak rute jaringan dari server ke server melalui berbagai node atau hop. Ini memberikan gambaran tentang bagaimana data mencapai tujuan dan melibatkan apa saja di sepanjang jalan.
+
+Contoh penggunaan `nslookup`:
+```bash
+nslookup example.com
+```
+
+Contoh penggunaan `dig`:
+```bash
+dig example.com
+```
+
+contoh penggunaan CMD tools yaitu:
+
+![Screenshot (201)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/484e5953-9c73-47fd-bf13-1362a19a62a3)
+
+menggunakan cmd line untuk tracing website google.com dan instagram.com/fatihmaull
+
+
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -581,9 +639,28 @@ Output website HTML (pure HTML nya saja)
    
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+dibahas di blog WordPress
+Maulana's Mind:
+https://fatihmaulanamail.wordpress.com/2023/12/26/seo-search-engine-optimization/
+
+contoh SEO pada web html WordPress
+
+![Screenshot (182)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/037bb5fe-73bd-4133-8867-9f22f5cfc028)
+
+![Screenshot (192)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/58adf01b-1a87-4274-8100-2b8080e1bab9)
+
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+
+file JSON
+JSON (JavaScript Object Notation) adalah format data ringan yang digunakan untuk pertukaran data antar aplikasi. JSON bersifat teks dan dapat dibaca oleh manusia, sementara juga mudah diurai (parsed) dan dihasilkan oleh mesin. Format ini umumnya digunakan dalam pengembangan aplikasi web untuk mentransmisikan data antara server dan browser, namun juga telah menjadi populer dalam konteks umum pertukaran data.
+JSON sering digunakan sebagai format data standar untuk pertukaran informasi dalam RESTful API. Ini memungkinkan aplikasi klien dan server untuk berkomunikasi dengan format data yang konsisten.
+
+Contoh penggunaan file JSON adalah ketika pembuatan halaman web sederhana sebelumnya, yaitu GALERI FOTO WEB
+
+- penggunaan file JSON di vscode untuk launching websitenya
+  ![Screenshot (190)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/05d2b294-1092-4fd7-a736-2a2e8d9d79bd)
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -598,11 +675,39 @@ terdapat profile github yang tertera didalam file readme.md yang dibuat mengguna
 
 
 - caranya adalah dengan mengetik repository yang memiliki nama yang sama dengan nama akun kita, lalu buat file readme.md didalamnya serta upload file HTML yang telah ada agar dapat dihosting di repository tersebut.
+- tampilan di halaman utama github akan terlihat seperti ini:
+
+  ![Screenshot (169)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/0373884c-a413-4c1a-9222-1818cb0e23c4)
+
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+
+Eksplorasi Web API dengan Postman API dimulai dengan pembuatan akun
+- login dengan akun google ke akun postman
+
+  ![Screenshot (207)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/7c854422-99d7-4f0b-b6bb-ce4db2d2fa46)
+
+  
+- eksplor environtment basic postman
+
+  ![Screenshot (208)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/b57b4379-ed88-4c58-9e49-92d276fab744)
+
+  
+- cari API yang menarik dan ingin dieksplor di ternding API
+
+  ![Screenshot (209)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/137e579b-2274-4ff2-92bd-511347f23309)
+
+
+- masuk dan pelajari API (API dari SatuSehat, aplikasi pelayanan kesehatan berbasis di Indonesia)
+
+  ![Screenshot (210)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/6569644c-c6a8-4185-874b-857d6cc28ccd)
+
+  
+eksplorasi HTTP Request dengan postman akan selalu dilanjutkan sesuai dengan demand yang diperlukan kedepannya
+
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
@@ -663,6 +768,7 @@ itulah beberapa fungsi devtools dari chrome, yang nanti akan dieksplore lebih la
 
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
@@ -771,29 +877,185 @@ editor site WordPress
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+- akses konten dapat dilihat dari youtube, ataupun webstie-website streaming seperti:
+- gambar dan icon:
+  - Pinterest
+  - shutterstock
+  - freepik
+  - unsplash
+  - pexels
+- video:
+  - youtube
+  - envanto elements
+  - netflix
+- Audio:
+  - spotify
+  - soundclouds
+  - envantoelements
+  - pixelabs
+  - etc
+
+contoh konten video youtube:
+- karya pribadi berjudul film Al-Isti'mar
+  https://youtu.be/tQWjbUpN37M?si=zejPDcV-OYAavPoo 
+
+- trailer Al-Isti'mar
+  https://youtu.be/HrMn8Zfu708?si=Y7wPSZf9N4MgSdWT
+  
+- karya pribadi "video perpisahan wisuda"
+  https://youtu.be/hfEcHgfXXx0?si=XOwPmyfeA6ETbxmU 
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+ - mencoba menggunakan aplikasi editor video, audio, dan gambar di CapCut versi pc untuk mengedit video SocialProject Monitor IF23
+   ![capcut](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/bbadc2e1-2282-4365-a135-c9f0cfc12425)
+
+ - mecoba menggunakan premiere pro sebagai video editor project gabut ultah ke-19
+   ![pp](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/62812800-7b23-42ca-b8cf-6e096abfc69e)
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+Bahasa pemrograman Logo adalah bahasa pemrograman yang diciptakan pada tahun 1967 oleh Seymour Papert dan tim di Laboratorium Kecerdasan Buatan Massachusetts Institute of Technology (MIT). Logo dirancang untuk digunakan sebagai alat pendidikan, khususnya untuk mengajarkan konsep-konsep pemrograman kepada anak-anak.
+
+Ciri-ciri utama bahasa pemrograman Logo meliputi:
+
+1. **Sederhana dan Intuitif:**
+   - Logo didesain agar mudah dipahami, bahkan oleh anak-anak. Struktur bahasanya sederhana dan intuitif.
+
+2. **Turtle Graphics:**
+   - Salah satu fitur utama Logo adalah "turtle graphics," di mana pemrogram dapat mengendalikan gambar sederhana yang disebut "turtle" untuk menggambar di layar. Perintah-perintah seperti `forward`, `backward`, `right`, dan `left` digunakan untuk menggerakkan turtle.
+
+3. **Interaktif:**
+   - Logo bersifat interaktif, memungkinkan pengguna untuk berinteraksi langsung dengan perintah-perintah dan melihat hasilnya secara langsung di layar.
+
+4. **Prosedur dan Fungsi:**
+   - Logo mendukung konsep prosedur dan fungsi, memungkinkan pemrogram untuk membuat dan menggunakan blok-blok kode yang dapat dipanggil.
+
+5. **Pendidikan dan Pembelajaran:**
+   - Tujuan utama Logo adalah menjadi alat pendidikan yang efektif. Dengan menggunakan turtle graphics, anak-anak dapat belajar konsep-konsep pemrograman sambil bersenang-senang.
+
+6. **Konsep Rekursi:**
+   - Logo memperkenalkan konsep rekursi dengan fitur pemanggilan diri sendiri, yang dapat digunakan untuk membuat struktur repetitif dan pola-pola kompleks.
+
+7. **Portabilitas:**
+   - Logo telah diimplementasikan dalam berbagai versi untuk berbagai platform dan sistem operasi.
+
+8. **Open Source:**
+   - Beberapa implementasi Logo bersifat open source, memungkinkan pengembang untuk mengakses dan memodifikasi sumber kode sesuai kebutuhan.
+
+Meskipun Logo awalnya dikembangkan untuk tujuan pendidikan anak-anak, konsep-konsep dalam Logo, seperti rekursi dan kontrol alur, memiliki nilai yang luas dan dapat membantu pemula memahami dasar-dasar pemrograman. Implementasi Logo yang populer termasuk "UCBLogo" dan "MSWLogo." Meskipun tidak sepopuler beberapa bahasa pemrograman lainnya, Logo tetap relevan sebagai alat pembelajaran pemrograman dasar.
+
+- percobaan aplikasi pemrograman logo online, menggunakan Logo interpreter online
+  ![Screenshot (170)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/804f216b-a8b9-40fa-8594-6c6526351a9f)
+
+  ![Screenshot (171)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/f8d01a41-9f57-4f53-bc17-ec204fd16109)
+
+- percobaan penyelesaian challenge logo pertama dari Logo online
+  ![Screenshot (172)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/1bcb2a7e-05dc-4db8-9787-535f7813b5bf)
+
+  video: https://drive.google.com/file/d/1QCfaYHdGBiEqBPDaFec1xXDteWxs5xrv/view?usp=sharing
+
+- percobaan penyelesaian challenge di level 2 dari Logo online
+  ![Screenshot (173)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/cd31639f-988f-4c17-99d2-872b4c2d1695)
+
+  video: https://drive.google.com/file/d/1nc1cWU-GF_FHfBoEFyDatN3ozgb2jbst/view?usp=sharing 
+
+
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+
+- pemrosesan media Audio dari library TextToSpeech dengan Google Colab (penjelasan video di gdrive)
+  https://drive.google.com/file/d/1_qyBBPDIr6lrO9hL0UkNLOX0Bx3PWC9w/view?usp=drive_link
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-- TensorFlow
+- TensorFlow (dengan bahasa python)
+
+  - laman web Tensorflow
+  ![Screenshot (195)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/1ae06ecf-3ffe-4a69-b1d2-6ae1de0c57c0)
+
+  - tampilan machine learning dengan Google colab berbasis Tensorflow
+  ![Screenshot (196)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/9cf1a91b-1494-4fcf-9dee-63352dbfd7cb)
+
+  - kode AI learning Tensorflow di Google colab,  mengenali apa itu "bunga"
+  ![Screenshot (197)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/2cc6dc56-9459-4e2e-b53c-bd1018592305)
+
 - Microsoft Azure AI vision
 - ChatGPT
+  - (premium, dan berbayar)
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+disini kita akan mencoba beberapa model AI untuk mengenerate logo dan gambar dengan prompt yang sama, yaitu "create a logo design of an online and the most execellent fintech apps called LOKALII with mostly red element"
 - Microsoft BING AI
+
+  - prompt generate nya:
+   ![Screenshot (175)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/55888a47-ab7d-4610-92ea-e96694c155e0)
+
+  - generated image nya:
+    ![Screenshot (174)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/fc8d302d-eafa-495e-b4f1-5d973b9c1009)
+    
 - DALL-E GPT
+
+  - hasil gambarnya:
+    DALL-E merupakan layanan khusus dan harus berbayar, jadi sistem openAI hanya akan mendeskripsikan gambar dan menyarankan hal lain
+    ![Screenshot (176)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/5b730296-98d2-4ee5-ad08-b09987aebd46)
+  
 - Midjourney
+
+  - hasil gambar dari midjourney tidak dapat diproses karena butuh subscription berbayar lagi-lagi, oleh karena itu saya akan memasukkan gambar-gambar prompt lain sebagai referensinya
+    ![Screenshot (177)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/950b7ecc-fd70-4022-a99a-d2782504c401)
+
+    ![Screenshot (178)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/7bc2cbb4-b3ef-4422-86b6-d52366ae7db5)
+
+    ![Screenshot (180)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/b474968b-df94-4a37-92f4-3fae5709b10d)
+
+    ![Screenshot (181)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/ca51b3ac-3bd4-4788-9233-692460507056)
+
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+
+- Model machine learning image recognition dengan Tensorflow
+  ![Screenshot (197)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/f4c18561-f9b1-45ce-9e20-5965556202d5)
+
+  ![Screenshot (196)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/dc2e2817-8423-426e-a50a-af42c3f104ac)
+
+seperti yang telah dijelaskan di soal lainnya mengenai AI image recognition
+
+- model speech recognition di Google Colab dan model TTS (video di gdrive)
+  https://drive.google.com/file/d/1_qyBBPDIr6lrO9hL0UkNLOX0Bx3PWC9w/view?usp=drive_link 
+
+
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+Data visualization menggunakan tools dapat dilakukan dengan beberapa online tools seperti:
+- Google Data Studio
+- MatPlotLib python
+- D3.js
+- dan yang paling terkenal yaitu Microsoft EXCEL
+
+  - data visualization dengan excel (data diambil dari Praktikum Dasar Fisika yang telah dilakukan selama semester 1 ini)
+
+    ![Screenshot (205)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/1fb256c1-14d8-484a-bb39-5dc42d4b4abb)
+
+
+  - excel merupakan tools yang sangat mutakhir, sehingga kita juga dapat mengetahui gradient dari grafik yang terdapat berdasarkan semua data)
+
+    ![Screenshot (206)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/cf5ab221-359c-4611-9877-e3ede61e299f)
+
+
+
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+- dengan meggunakan Matplotlib yang berbasis python, ktita dapat melakukan data visualization dengan code
+  (membuat grafik statistik data)
+  - menggunakan online interpreter python (programmiz.pro)
+  - menampilkan grafik dari data yang tersedia
+ 
+    ![Screenshot (203)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/37f9e9be-295c-4413-a56a-948fe7f9f88e)
+
+  
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
@@ -838,11 +1100,36 @@ Penggunaan MyMQTT telah dilaksanakan di kelas matkul Pengenalan Informatika, yan
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+file csv (Comma-Separated Values) adalah  format penyimpanan data yang digunakan untuk menyimpan dan mengelola data dalam bentuk teks yang sederhana dan terstruktur. Format ini memungkinkan data untuk disimpan dalam tabel, di mana setiap baris dari tabel mewakili satu baris data, dan kolom-kolomnya dipisahkan oleh tanda koma. File CSV sering digunakan untuk pertukaran data antara aplikasi dan platform yang berbeda.
+
+demonstrasi penggunaan dan pengolahan file CSV dengan google colab menggunakan bahasa python ada di video berikut:
+
+- video di gdrive
+  https://drive.google.com/file/d/1IbllHsreEz-49DBHya8NkRccm1HIksBl/view?usp=sharing
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+DIjelaskan dalam postingan WordPress
+Maulana's Mind:
+https://fatihmaulanamail.wordpress.com/2023/12/26/jurnal-artikel-conference-dan-grade-jurnal/
+
+
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+
+- jurnal yang menarik perhatian di IEEE tentang informatika
+  ![Screenshot (186)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/554303d7-1082-464a-9566-e32983ffd36a)
+
+- keinformatikaan di Arxiv (computer science)
+  ![Screenshot (187)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/c1af41bd-5cbe-4461-ba84-a83b8e5c7178)
+
+- Sciencedirect (lebih ke sains secara umum)
+  ![Screenshot (188)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/ef37fcb1-eaf1-4b2b-bc4d-c004cafb0ec0)
+
+- DBLP COmputer Science Journal, tentang cryptography, vol. 91 thn 2023
+  ![Screenshot (189)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/1dc2b7e6-cd0a-4110-ac74-2f216d324b97)
+
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
