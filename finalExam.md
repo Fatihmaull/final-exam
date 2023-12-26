@@ -1,3 +1,4 @@
+
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
@@ -68,6 +69,28 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
+percobaan scratch dimulai dengan login atau buat akun, lalu masuk ke tutorial-tutorial dalam membentk enath itu animasi, atau game, atau pun kartun sesuai keinginan kita. 
+Scratch dapat dibilang merupakan aplikasi yang sangat membantu dalam memahami dasar dasar konsep pemrograman, dimana semua kode di-visualisasi kan dengan berbentuk kartun dan blok blok yang saling berhubungan
+
+- percobaan scratch
+  ![Screenshot (128)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/198ddada-a2cc-47e6-961d-47e85cb41f3e)
+
+- akun scratch
+  ![Screenshot (129)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/ead9df6d-1783-4d98-820d-71283a276b9e)
+
+- eksplorasi scratch
+  ![Screenshot (130)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/66784310-80e0-4ff6-bebe-b585432d784f)
+
+- bermain game based on scratch
+  ![Screenshot (131)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/02c7f274-75e6-4096-a727-48288c098916)
+
+- pembuatan game bola pantul sederhana dengan scratch
+  ![Screenshot (133)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/efacbbdf-ffd2-4f53-b30e-e627e474dd78)
+
+- demonstrasi game dari scratch
+  
+https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/ea454666-e2dc-43e8-bc14-9e8112388f69
+
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
@@ -82,19 +105,28 @@ Referensi [1](https://scratch.mit.edu/)
    - Visual Studio Code sebagai text editor dalam banyak project dan tugas-tugas dari dosen 
 
    Demonstrasi:
+   - instalasi VISUAL STUDIO dari Microsoft sebagai syarat IDE FLUTTER
+     ![Screenshot (1)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/d9c2b98f-7ace-440e-aeb9-b7c9b4c08f41)
+     
    - pemanfaatan IDE Android Studio (dalam membuat emulator mobile android sebagai acuan kode UI UX aplikasi LOKALII)
      ![Screenshot (56)](https://github.com/Fatihmaull/final-exam/assets/144407751/5667ba16-6068-48a8-a5c8-f0f51d872a06)
+     
    - penggunaan visual studio sebagai salah satu ketentuan IDE Flutter
    - penggunaan visual studio code sebagai code editor
      ![Screenshot (57)](https://github.com/Fatihmaull/final-exam/assets/144407751/40ff75f4-2c7e-42d8-9622-8f5aa76e9615)
+     
    - penggabungan antara emulator dari IDE Android Studio dengan Code editor VSCode
      ![Screenshot (58)](https://github.com/Fatihmaull/final-exam/assets/144407751/099e3272-e171-4412-9670-57cc4fa12cab)
+     
    - penggunaan IDE VSCode dalam pengerjaan program beli susu sederhana matkul praktikum dasar pemrograman
      ![Screenshot (32)](https://github.com/Fatihmaull/final-exam/assets/144407751/70571b61-1c4d-4397-9dc6-5f5d29ca5c2d)
+     
    - hasil output dari latihan for loop dengan VSCode menggunakan bahasa Java
      ![Screenshot (33)](https://github.com/Fatihmaull/final-exam/assets/144407751/0650fd4b-3715-4aa7-8ba5-07622b449f2a)
+     
    - hasil output latihan for loop VSCode dengan bahasa Java (Bintang bersusun)
      ![Screenshot (34)](https://github.com/Fatihmaull/final-exam/assets/144407751/64d3485a-567c-4126-9946-acddb57af0ab)
+     
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
@@ -132,6 +164,30 @@ Platform seperti Hackerrank berguna untuk meningkatkan keterampilan pemrograman,
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+Instalasi Database yang dipilih: MySQL
+- proses instalasi database memanfaatkan panduan dari ChatGPT
+  ![Screenshot (119)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/954de292-3387-401b-9bcd-23f8e97e89e2)
+
+- Instalasi MySQL di OS WINDOWS
+  ![Screenshot (118)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/fbc9bec9-875d-4156-860f-190d72e0ca22)
+
+- pemilihan produk yang diinstal dari MySQL
+  ![Screenshot (122)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/345e9180-b445-483f-9e1c-64efc73d80dc)
+
+- selesai instalasi produk
+  ![Screenshot (124)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/dfc5f082-51f0-4b5a-b5cf-12501dadc6b2)
+
+- memilih tipe mesin komputasi yang digunakan sebagai server
+  ![Screenshot (125)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/14d84301-face-4e8e-b83b-25904cca3d12)
+
+- konfigurasi server MySQL
+  ![Screenshot (126)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/d9d5ffcd-564a-451f-b0ca-f72fcc9f73dc)
+
+Kenapa MySQL?
+: MySQL seringkali menjadi pilihan karena beberapa alasan. Pertama, MySQL adalah database open-source yang dapat diakses dan digunakan secara gratis, membuatnya ekonomis untuk banyak proyek. Selain itu, MySQL memiliki kinerja yang baik dan dapat menangani beban kerja tinggi dengan cepat dan efisien.
+
+MySQL juga mendukung banyak fitur penting seperti indeks, transaksi, dan keamanan yang dapat diandalkan. Keberlanjutan dan dukungan komunitas yang besar juga merupakan keuntungan, karena banyak pengembang yang berkontribusi pada pengembangan dan pemeliharaan MySQL.
+
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
@@ -144,6 +200,36 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+
+- Dokumen HTML pada soal kali ini bersumber dari kode pribadi saya, yang berjudul WEB GALERI FOTO.
+- dimana kita nanti dapat mengupload dan melihat foto yang telah kita simpan didalam web tersebut
+
+- Demonstrasi
+  
+ Uploading menampilkan html (1).mp4…
+
+
+- HTML (Hypertext Markup Language) dirancang khusus untuk ditampilkan di web browser. Ada beberapa alasan mengapa HTML harus ditampilkan di browser: (diambil dari artikel)
+
+1. Interaktivitas:
+   HTML menyediakan elemen dan tag yang memungkinkan pembuatan halaman web interaktif. Browser memahami struktur HTML dan mampu menampilkan elemen-elemen ini dengan cara yang memungkinkan pengguna berinteraksi dengan konten.
+
+2. Rendering dan Tampilan:
+   Browser memiliki mesin rendering yang dapat menafsirkan dan menampilkan HTML dengan cara yang sesuai dengan standar web. Mereka mengonversi markup HTML menjadi tata letak visual yang dapat dilihat oleh pengguna.
+
+3. Kemampuan Menangani Multimedia:
+   HTML tidak hanya menyediakan teks dan gambar, tetapi juga mendukung multimedia seperti audio dan video. Browser memiliki kemampuan bawaan untuk memainkan dan menampilkan elemen-elemen multimedia ini.
+
+4. Koneksi ke Server:
+   HTML bekerja secara terintegrasi dengan protokol HTTP dan HTTPS untuk mengambil informasi dari server. Browser bertindak sebagai klien yang meminta dan menampilkan halaman web dari server.
+
+5. Pemrosesan Skrip:
+   HTML dapat menyertakan skrip JavaScript yang dieksekusi oleh browser untuk menambahkan fungsionalitas dinamis ke halaman web. Browser memiliki mesin JavaScript yang memproses dan menjalankan skrip ini.
+
+6. Kemampuan untuk Menavigasi:
+   HTML menyediakan elemen-elemen seperti tautan (`<a>`) yang memungkinkan navigasi antarhalaman. Browser memungkinkan pengguna untuk mengklik tautan dan beralih antarhalaman dengan mudah.
+
+Jadi, HTML dan browser bekerja sama untuk memberikan pengalaman pengguna yang kaya dan interaktif di dunia web. HTML sendiri adalah bahasa markup statis, dan browser menyediakan lingkungan yang dapat menafsirkan, memproses, dan menampilkan halaman web sesuai dengan spesifikasi HTML.
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
@@ -160,6 +246,33 @@ Referensi tutorial
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
+Eksplorasi HTML dengan w3schools
+![Screenshot (138)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/2640ae06-0401-4abb-8ccf-4ad7df2ed649)
+
+Materi bagian akhir HTML dengan w3schools
+![Screenshot (139)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/2c418b9a-c097-4de9-bfd4-7f4594703879)
+
+Source code website GALERI FOTO 
+- HTML
+  ![Screenshot (140)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/b828d15a-3784-4044-aa19-3d935cf2f019)
+
+- CSS
+  ![Screenshot (142)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/03c34df8-dd72-47a8-bf4b-478422038fb6)
+
+- JAVASCRIPT
+  ![Screenshot (141)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/ba45e9d4-8c80-44bc-ae16-c828421bc9b8)
+
+Output website HTML (pure HTML nya saja)
+
+- menampilkan opsi memasukkan gambar pada gallery
+  
+  ![Screenshot (144)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/2e7d5496-3bf4-4df8-b38f-09dd7cbdf8e8)
+
+- setelah dimasukkan file gambar untuk diupload
+  
+  ![Screenshot (145)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/68b52bdc-3970-4159-8d7c-27e2c8a68a86)
+
+   
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
@@ -167,6 +280,18 @@ Referensi []
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+
+Web hosting gratis yang digunakan adalah repository github milik pribadi
+dengan link github: https://github.com/Fatihmaull
+
+terdapat profile github yang tertera didalam file readme.md yang dibuat menggunakan HTML dan dihosting secara gratis dengan website github
+- file HTML diambil dari template, dan tidak fully generated oleh saya pribadi
+- hanya mencoba hostingan dengan github
+
+![Screenshot (143)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/0334d3c5-0338-481a-b4aa-f2b83f9dddc0)
+
+
+- caranya adalah dengan mengetik repository yang memiliki nama yang sama dengan nama akun kita, lalu buat file readme.md didalamnya serta upload file HTML yang telah ada agar dapat dihosting di repository tersebut.
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
