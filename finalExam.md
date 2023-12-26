@@ -57,9 +57,30 @@ dengan email alfatihmaulana2005@gmail.com
 
 ## Mencoba Console Sistem Operasi
 
+Console pada sistem operasi adalah antarmuka teks atau lingkungan yang memungkinkan pengguna berinteraksi dengan sistem operasi menggunakan perintah teks. Console umumnya disebut sebagai "Command-Line Interface" (CLI) atau "Command Prompt" di lingkungan Windows.
+
+Berbeda dengan GUI yang menggunakan elemen visual seperti jendela, ikon, dan menu, console adalah lingkungan teks yang user harus memasukkan perintah teks dan menerima keluaran teks sebagai respons. Di console, pengguna dapat menjalankan perintah untuk menjelajahi sistem file, menjalankan program, mengelola pengaturan sistem, dan melakukan berbagai tugas sistem lainnya.
+
+Beberapa fitur umum dari console sistem operasi termasuk:
+
+1. Prompt: Console menampilkan prompt atau baris perintah, di mana pengguna dapat memasukkan perintah tertentu.
+
+2. Perintah: Pengguna dapat memasukkan perintah teks untuk menjalankan program atau melakukan tugas tertentu. Perintah biasanya disertakan dengan argumen dan opsi.
+
+3. Keluaran: Setelah menjalankan perintah, sistem operasi memberikan keluaran atau respons dalam bentuk teks. Output ini dapat berupa informasi, pesan kesalahan, atau hasil dari perintah yang dijalankan.
+
+4. Shell: Console sering kali terhubung dengan shell, yang merupakan program yang mengeksekusi perintah dan menyediakan lingkungan tempat perintah dijalankan. Beberapa shell yang umum digunakan termasuk Bash (di banyak sistem Unix/Linux) dan Command Prompt (di Windows).
+
+5. Scripting: Console mendukung scripting, di mana pengguna dapat membuat dan menjalankan skrip perintah untuk melakukan serangkaian tugas tanpa harus memasukkan perintah satu per satu.
+
+Console merupakan alat yang kuat untuk pengguna yang lebih ahli dan sering digunakan dalam lingkungan development, administrasi sistem, dan penanganan tugas-tugas yang membutuhkan kontrol tingkat rendah.
+
+Contoh console: WINDOWS CMD, LINUX TERMINAL, MacOS COMMAND SHELL
+
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
@@ -94,6 +115,69 @@ https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/1444
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
+Algoritma Bubble Sort adalah algoritma pengurutan sederhana yang membandingkan dan menukar elemen-elemen secara berurutan hingga seluruh array diurutkan. Nama "Bubble" berasal dari cara elemen-elemen "muncul" ke posisi yang benar, seperti gelembung yang naik ke permukaan air.
+Algoritma Bubble Sort adalah algoritma pengurutan sederhana yang membandingkan dan menukar elemen-elemen secara berurutan hingga seluruh array diurutkan. Nama "Bubble" berasal dari cara elemen-elemen "muncul" ke posisi yang benar, seperti gelembung yang naik ke permukaan air.
+
+contoh rinci tentang algoritma Bubble Sort dalam bahasa Java:
+```
+public class BubbleSort {
+    public static void main(String[] args) {
+        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+        System.out.println("Array sebelum diurutkan:");
+        printArray(arr);
+        bubbleSort(arr);
+        System.out.println("\nArray setelah diurutkan:");
+        printArray(arr);
+    }
+    static void bubbleSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n-1; i++) {
+            for (int j = 0; j < n-i-1; j++) {
+                if (arr[j] > arr[j+1]) {
+                    // menukar arr[j] dan arr[j+1]
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                }
+            }
+        }
+    }
+    static void printArray(int[] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
+    }
+}
+```
+Penjelasan:
+1. Fungsi bubbleSort():
+   - Menerima array sebagai parameter.
+   - Variabel `n` adalah panjang array.
+   - Loop pertama (`for i`): Mengulang sebanyak `n-1` kali karena setiap iterasi menempatkan elemen terbesar di akhir array.
+   - Loop kedua (`for j`): Membandingkan dan menukar elemen-elemen secara berurutan hingga elemen terbesar bergerak ke posisi yang benar.
+   - Jika `arr[j]` lebih besar dari `arr[j+1]`, lakukan pertukaran.
+
+2. Fungsi printArray():
+   - Menerima array sebagai parameter.
+   - Mencetak elemen-elemen array ke layar.
+
+3. Fungsi main():
+   - Membuat array awal.
+   - Mencetak array sebelum diurutkan.
+   - Memanggil `bubbleSort` untuk mengurutkan array.
+   - Mencetak array setelah diurutkan.
+
+Algoritma ini menunjukkan tata cara pengurutan dengan metode yang terkenal dengan nama BubbleSort.
+
+implementasi nya:
+
+- dengan contoh nama, nim dan pengurutan nilai mahasiswa
+  ![Screenshot (149)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/52fce364-6f89-43ea-b9a4-bf1787799df6)
+
+- algoritma dan output pengurutan
+  ![Screenshot (148)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/0110b4a8-78b7-4f30-955f-ee06c0e886b4)
+
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
