@@ -513,6 +513,97 @@ Referensi tambahan [1](https://db-engines.com/en/ranking)
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
+eksplorasi link github dengan tema Dbeaver: https://github.com/dbeaver/dbeaver
+  
+  ![Screenshot (219)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/74d92524-3bd3-4b73-9d47-4ae990a464b3)
+
+- tampilan Dbeaver
+
+  ![Screenshot (220)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/716151b9-cc8a-4f85-9fba-389246ff157d)
+
+- code yang digunakan kebanyakan adalah Java dan running dengan JDK 17
+
+  ![Screenshot (221)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/61cec3b0-4402-464f-b30a-60a787ac8716)
+
+apa itu query database?
+: Eksplorasi dan query database adalah proses mengakses, menganalisis, dan memanipulasi data yang tersimpan dalam suatu basis data. Ada beberapa cara untuk melakukan eksplorasi dan query database, tergantung pada jenis database yang digunakan dan alat yang tersedia. Berikut adalah panduan umum untuk melakukan eksplorasi dan query database:
+
+### Eksplorasi Database:
+
+1. Memahami Struktur Database:
+   - Ketahui skema dan struktur tabel dalam database. Identifikasi kolom-kolom, tipe data, dan hubungan antar tabel.
+
+2. Menggunakan Alat Manajemen Database:
+   - Gunakan alat manajemen database seperti MySQL Workbench, pgAdmin (untuk PostgreSQL), atau SQL Server Management Studio (SSMS) untuk secara visual menavigasi dan menjelajahi database.
+
+3. Menampilkan Sampel Data:
+   - Jalankan perintah SQL SELECT untuk menampilkan sampel data dari tabel tertentu.
+     ```sql
+     SELECT * FROM nama_tabel LIMIT 10;
+     ```
+
+### Query Database:
+
+1. Menulis Query Dasar:
+   - Gunakan perintah SQL SELECT untuk mengambil data dari tabel.
+     ```sql
+     SELECT kolom1, kolom2 FROM nama_tabel WHERE kondisi;
+     ```
+
+2. Filtering Data:
+   - Gunakan klausa WHERE untuk menyaring data berdasarkan kondisi tertentu.
+     ```sql
+     SELECT * FROM nama_tabel WHERE kolom = 'nilai';
+     ```
+
+3. Sorting Data:
+   - Gunakan klausa ORDER BY untuk mengurutkan data berdasarkan kolom tertentu.
+     ```sql
+     SELECT * FROM nama_tabel ORDER BY kolom ASC/DESC;
+     ```
+
+4. Aggregasi Data:
+   - Gunakan fungsi agregasi seperti COUNT, SUM, AVG, MIN, MAX untuk merangkum data.
+     ```sql
+     SELECT COUNT(id) AS jumlah_data FROM nama_tabel;
+     ```
+     
+5. Gabungan Tabel (JOIN):
+   - Gabungkan dua atau lebih tabel menggunakan klausa JOIN.
+     ```sql
+     SELECT * FROM tabel1
+     INNER JOIN tabel2 ON tabel1.kolom = tabel2.kolom;
+     ```
+
+6. Grup dan Agregasi (GROUP BY):
+   - Gunakan klausa GROUP BY untuk mengelompokkan data berdasarkan kolom tertentu.
+     ```sql
+     SELECT kolom, COUNT(*) AS jumlah FROM nama_tabel GROUP BY kolom;
+     ```
+
+7. Subqueries:
+   - Gunakan subqueries untuk membuat query bersarang yang menghasilkan set data yang digunakan dalam query utama.
+     ```sql
+     SELECT kolom FROM nama_tabel WHERE kolom IN (SELECT kolom FROM tabel_lain);
+     ```
+
+8. Paging (LIMIT dan OFFSET):
+   - Gunakan klausa LIMIT dan OFFSET untuk mengatur paging dalam hasil query.
+     ```sql
+     SELECT * FROM nama_tabel LIMIT 10 OFFSET 20;
+     ```
+
+9. Menyimpan Query:
+   - Simpan query yang sering digunakan atau kompleks untuk referensi di masa depan.
+
+10. Optimasi Query:
+    - Pastikan untuk mengoptimalkan query menggunakan indeks, membatasi SELECT * jika tidak diperlukan, dan menggunakan indeks yang sesuai.
+
+Contoh Query:
+```sql
+SELECT nama, usia FROM karyawan WHERE departemen = 'IT' ORDER BY usia DESC LIMIT 5;
+```
+(diambil dari rangkuman artikel tentang Database dan query eksplor, dan sumber ChatGPT sebagai contoh-contoh yang dipakai didalam tulisan diatas)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
