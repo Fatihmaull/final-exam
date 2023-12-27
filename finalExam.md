@@ -1263,6 +1263,20 @@ penggunaan duolingo sebagai sarana pembelajaran bahasa asing (menambah wawasan b
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
+Hellotalk adalah aplikasi yang mempertemukan strangers secara online, untuk saling bertukar budaya dan bahasa serta menjalin pertemanan antar negara yang jauh, antar bahasa dan kultur yang berbeda juga.
+
+- percobaan HelloTalk (sign in dengan akun google)
+
+  ![WhatsApp Image 2023-12-27 at 06 47 13_4f76135f](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/a2a04c93-3510-4258-b870-105119615e8a)
+  
+- berteman dengan Noah dari UK yang ingin pergi ke Yogyakarta
+
+  ![WhatsApp Image 2023-12-27 at 06 47 14_19d459bb](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/3b34c59f-6738-4266-a103-a8fe6433eb75)
+
+- berteman dengan Alma dari jerman yang ingin bertukar bahasa
+
+  ![WhatsApp Image 2023-12-27 at 06 47 14_011fe4b5](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/4bb5da69-9204-4d85-9c7f-365472ce46aa)
+
 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
