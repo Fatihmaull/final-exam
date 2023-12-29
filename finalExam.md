@@ -774,6 +774,20 @@ terdapat profile github yang tertera didalam file readme.md yang dibuat mengguna
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+hosting dengan menggunakan web service:
+1. cari tahu dulu apa itu web service
+
+   ![Screenshot (1043)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/9f1e5f42-39a8-48fc-868b-3f41d6dc18e4)
+
+3. pelajari cara membuat nya (saya menggunakan tutorial dari ChatGPT)
+4. instalasi Flask dan update pip python
+5. buuat kode nya
+
+  ![Screenshot (1047)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/c2a0d810-58c1-40b8-a1f4-9b186d63a063)
+
+6. tampilkan web service pada laman yang ditentukan oleh flask (protokol http)
+
+   ![Screenshot (1041)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/704bb67b-0500-4272-b475-fdc3ca5db1d5)
 
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
@@ -1202,6 +1216,21 @@ demonstrasi penggunaan dan pengolahan file CSV dengan google colab menggunakan b
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
+- ORC dalam big data adalah Optimized Row Columnar
+  File ORC (Optimized Row Columnar) dalam konteks Big Data adalah format penyimpanan kolom yang dioptimalkan untuk kinerja query dan analisis data. Format ini dikembangkan terutama untuk digunakan dengan Apache Hive, sebuah platform query data yang dibangun di atas Apache Hadoop.
+
+  Dalam file ORC, data disusun dalam bentuk kolom (columnar storage) alih-alih baris (row-based storage) seperti format file tradisional. Ini memungkinkan keuntungan performa tertentu, terutama ketika hanya sebagian kecil dari kolom yang dibaca atau diakses dalam query.
+
+  - perccbaan akses file ORC dengan google colab
+
+  - instalasi pip pyspark
+    ![Screenshot (1048)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/e71e7610-4740-458c-85d6-8a5212741496)
+
+  - membuat file ORC dengan pyspark
+    ![Screenshot (1051)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/d952e8ac-21a9-44ce-865d-996d16c375cc)
+
+  - membaca file ORC (di save dengan spark read, output di download)
+    ![Screenshot (1052)](https://github.com/Fatihmaull/final-exam-Introduction-to-Informatics/assets/144407751/dc61895c-e03e-4997-8b5c-e82970b93c34)
 
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
