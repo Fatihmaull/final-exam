@@ -1496,3 +1496,5 @@ Buku bertema informatika yang dibaca yaitu "The Art of Computer Programming"
     - Menyertakan pemikiran filsafat dan etika dalam dunia pemrograman, mengajak pembaca untuk memahami arti sebenarnya dari "seni pemrograman."
 
 "The Art of Computer Programming" oleh Donald E. Knuth adalah karya monumental yang memberikan fondasi yang kokoh bagi para pemrogram dan ilmuwan komputer. Meskipun detail dan matematis, buku ini memiliki nilai yang luar biasa dalam memahami dasar-dasar ilmu komputer dan pemrograman.
+
+terimakasih..
